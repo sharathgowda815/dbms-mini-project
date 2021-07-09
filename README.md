@@ -1,0 +1,2 @@
+# dbms-mini-project
+LIQUOR SHOP MANAGEMENT SYSTEM
